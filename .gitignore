@@ -1,3 +1,4 @@
 *.json
 *.pickle
 config.py
+__pycache__

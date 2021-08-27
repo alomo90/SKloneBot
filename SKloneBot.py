@@ -2,6 +2,7 @@
 import discord
 
 from gsheet import *
+from config import *
 
 client = discord.Client()
 sheet = gsheet()
