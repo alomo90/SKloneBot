@@ -95,4 +95,4 @@ async def on_message(message):
         await message.channel.send('Use \"**!attack** \", \"**!missile** \", or \"**!probe** \" followed by the number of attacks/missiles/probes you\'d like to log. For example, \"**!attack 1**\" would add 1 attack to your total. \"**!hof sheet**\" will respond with the link to the HoF totals.')
 
 
-client.run('ODc2NTg4MDQ5OTk4NDIyMDM2.YRmQPQ.AsXOyJylIjVY0bMOR10qe7Du7FM') # Add bot token here
+client.run('DISCORD_TOKEN') # Add bot token here
